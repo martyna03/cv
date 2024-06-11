@@ -1,5 +1,5 @@
 body {
-    background-color: #f1f1f1;
+    background-color: #b73ca156;
     /* margin: 0; */
     font-family: sans-serif;
 
@@ -16,9 +16,9 @@ body {
 }
 
 .left-column {
-    background-color: #fff;
+    background-color: #ffc2e5;
     width: 33%;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    box-shadow: rgba(240, 113, 240, 0.874) 0px 5px 15px;
     border-radius: 16px;
     overflow: hidden;
     padding-bottom: 16px;
@@ -38,11 +38,11 @@ body {
 .basic-info h3 i,
 .section h2 i {
     margin-right: 16px;
-    color: teal;
+    color: rgb(240, 2, 196);
 }
 
 .basic-info hr {
-    border: 1px solid lightgray;
+    border: 1px solid rgba(219, 120, 214, 0.331);
 }
 
 .photo {
@@ -54,12 +54,12 @@ body {
 }
 
 .progress {
-    background-color: #f1f1f1;
+    background-color: #daa6c4a0;
     border-radius: 8px;
 }
 
 .progress-fill {
-    background-color: teal;
+    background-color: rgba(207, 62, 178, 0.749);
     border-radius: 8px;
     text-align: center;
     color: #f1f1f1;
@@ -75,19 +75,19 @@ body {
 }
 
 .section {
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    box-shadow: rgba(240, 36, 199, 0.9) 0px 5px 15px;
     margin-bottom: 16px;
     border-radius: 8px;
-    background-color: #fff;
+    background-color: #f7cdede0;
     padding: 16px;
 }
 
 .date {
-    color: teal;
+    color: rgb(243, 25, 210);
 }
 
 .footer {
-    background-color: teal;
+    background-color: rgb(238, 22, 202);
     color: white;
     padding: 50px 0;
     text-align: center;
