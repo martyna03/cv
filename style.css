@@ -1,5 +1,5 @@
 body {
-    background-color: #b73ca156;
+    background-color: #b73ca133;
     /* margin: 0; */
     font-family: sans-serif;
 
@@ -16,7 +16,7 @@ body {
 }
 
 .left-column {
-    background-color: #ffc2e5;
+    background-color: #fccde8;
     width: 33%;
     box-shadow: rgba(240, 113, 240, 0.874) 0px 5px 15px;
     border-radius: 16px;
@@ -38,7 +38,7 @@ body {
 .basic-info h3 i,
 .section h2 i {
     margin-right: 16px;
-    color: rgb(240, 2, 196);
+    color: rgba(240, 2, 196, 0.6);
 }
 
 .basic-info hr {
@@ -75,7 +75,7 @@ body {
 }
 
 .section {
-    box-shadow: rgba(240, 36, 199, 0.9) 0px 5px 15px;
+    box-shadow: rgba(229, 118, 207, 0.9) 0px 5px 15px;
     margin-bottom: 16px;
     border-radius: 8px;
     background-color: #f7cdede0;
